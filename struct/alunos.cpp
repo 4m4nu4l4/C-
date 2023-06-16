@@ -12,7 +12,7 @@ using namespace std;
     float nota_prova2;
     
   };
-  	int const TAM = 2; //constante
+  	int const TAM = 1; //constante
     int i;
     
 // mina variavel é aluno, aluno é do tipo dados_aluno
